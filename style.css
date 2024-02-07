@@ -1,0 +1,71 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit&family=Work+Sans:ital@1&display=swap');
+
+
+body{
+    background-image: url(./assets/images/background-pattern-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: hsl(275, 100%, 97%);
+    display: flex;
+    flex-direction: column;
+    background-size: contain;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    column-gap: 15px;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    align-items: center;
+    padding: 20px 20px 20px;
+    border-radius: 10px;  
+}
+hr{
+    border-color: hsl(275, 100%, 97%);
+}
+summary{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+span{
+    font-size: 16px;
+    font-family: Work Sans;
+    color: hsl(292, 42%, 14%);
+    font-weight: 600;
+
+}
+span:hover{
+    color:hsl(293, 83%, 49%);
+}
+p{
+    font-size: 16px;
+    font-family: Work Sans;
+    color: hsl(292, 16%, 49%);
+    font-weight: 400;
+
+}
+details:hover{
+    cursor: pointer;
+   
+}
+
+.attribution { 
+    font-size: 14px; 
+    text-align: center; 
+    color: hsl(228, 45%, 44%);
+}
+
+ @media(min-width:500px){
+    .container{
+        width: 550px;
+        min-height: fit-content;
+    }
+}
