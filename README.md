@@ -4,8 +4,8 @@
 This project is an interactive FAQ accordion that allows users to expand and collapse frequently asked questions. It was built as part of the Frontend Mentor challenge.
 
 # Features
-Accordion Interaction: Users can click on a question to reveal its answer.
-Responsive Design: The accordion adapts to different screen sizes.
+- Accordion Interaction: Users can click on a question to reveal its answer.
+- Responsive Design: The accordion adapts to different screen sizes.
 
 # Technologies Used
 HTML: Structured the content and created the accordion structure.
