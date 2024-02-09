@@ -18,6 +18,9 @@ CSS Styling: I learned how to style elements using CSS, including hover effects.
 JavaScript Event Handling: Implementing the click event to toggle question visibility was a valuable learning point.
 Responsive Design: I practiced making the accordion responsive across various devices.
 
+# Preview Site
+https://faq-accordion-challenege.netlify.app/
+
 # Acknowledgments
 Frontend Mentor: Thank you for providing this challenge and helping me improve my frontend skills.
 Coded by DK
